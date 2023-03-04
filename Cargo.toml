@@ -3,7 +3,7 @@ name = "stock-scrape"
 version = "0.1.0"
 edition = "2021"
 description = "A simple stock scraper"
-license = "CC"
+license = "MIT"
 repository = "https://github.com/opfromthestart/stock-scrape"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
