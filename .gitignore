@@ -1,0 +1,3 @@
+/target
+/data/*
+!/data/1_ticker_list.csv
